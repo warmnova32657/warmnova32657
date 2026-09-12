@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey
 
-<!--
-**warmnova32657/warmnova32657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer messing around with code and learning as I go.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring backend stuff and scripting
+- Building small tools when I have time
+- Still figuring out what sticks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / Node.js
+- Git, Linux
+- Whatever else the project needs
+
+### Projects
+Nothing public yet. Working on a few ideas on the side — will push them up when they're less half-baked.
+
+---
+Feel free to say hi if you want.
